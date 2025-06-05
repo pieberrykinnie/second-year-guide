@@ -1,4 +1,4 @@
-# Required courses
+# Required courses and Course Plan
 
 Author: Sagar, Ray
 
@@ -49,3 +49,8 @@ research more later
 ### Data Science
 
 research more later
+
+
+
+###########################################################################################
+The second year of computer science has a bit more computer science courses as compared to the first year. Assuming that you already declared your major as computer science, this section of the guide will focus on the recommended course plan and the required courses that you need to pass to get the desired course.
