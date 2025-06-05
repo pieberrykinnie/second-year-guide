@@ -52,7 +52,7 @@ research more later
 
 
 
-###########################################################################################
+################################################################################################
 The second year of the Computer Science program typically includes a greater number of core Computer Science courses compared to the first year. Assuming you have already declared your major as Computer Science, this section of the guide outlines a recommended course plan and highlights the required courses you must successfully complete to progress in your degree and unlock key upper-year courses.
 
 # 📘 Recommended Course Plan – Year 2 (Computer Science)
