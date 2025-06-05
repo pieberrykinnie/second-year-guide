@@ -128,8 +128,6 @@ Designed for students who struggled with Year 1 math/programming or want a light
 
 ---
 
-## 💡 Final Advice for Computer Science Honours or Major 
-
 - ✅ **Start with COMP 2140**: It unlocks most Year 2 courses.
 - ✅ Take **MATH 1240** before or with COMP 2080/2280.
 - 📈 **Prioritize GPA** over speed; retaking courses delays graduation more than going slow.
