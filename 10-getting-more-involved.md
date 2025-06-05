@@ -1,6 +1,7 @@
 # Getting More Involved
 
 Author: Adeeb
+(Same as 1st year guide, remove from both guides and add as a seperate webpage)
 
 ## Outline
 
