@@ -1,4 +1,4 @@
-By the second year, many Computer Science students begin exploring internship opportunities, either through the Computer Science Co-op program or by applying to independent internships on their own ~~(include links to both the Co-op and Internship pages)~~. One of the most nerve-wracking parts of this process is trying to build a standout resumé.
+By the second year, many Computer Science students begin exploring internship opportunities, either through the Computer Science Co-op program or by applying to independent internships on their own. One of the most nerve-wracking parts of this process is trying to build a standout resumé.
 
 Your resumé is a vital tool for communicating how your skills, education, and experiences align with what employers need in tech roles. A strong resumé clearly shows that you:
 - **Can do the job** (technical and analytical ability)
@@ -103,7 +103,7 @@ Include this section to demonstrate:
 - Familiarity with tools, technologies, or frameworks relevant to the field (hard skills)
 - Problem-solving and software design skills (soft & hard skills)
 
-> **Tip:** If you don’t have many (or any) personal projects in your portfolio yet, there is still time to get started. Check out the Personal Projects section of this guide for ideas and inspiration. ~~Include link~~
+> **Tip:** If you don’t have many (or any) personal projects in your portfolio yet, there is still time to get started. Check out the [Personal Projects](9-personal-projects.md) section of this guide for ideas and inspiration. 
 
 
 - **Must-Have:**

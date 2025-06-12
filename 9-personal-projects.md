@@ -33,8 +33,7 @@ If you're looking for more specific inspiration based on the programming languag
 | HTML/CSS/JS | Personal Portfolio Website | Build a website to showcase your projects, resume, and contact info.                         | Easy       |
 
 **Note:** For the projects labeled **"Hard"**, consider working on them as a group. Collaborating with others not only makes complex projects more manageable, but also helps you build essential teamwork and communication skills. You’ll gain practical experience with tools like _Git_ and _GitHub_, which are skills that are highly valuable in both academic and professional settings.
-- One great way to get that experience is through the **University of Manitoba Programming Practices Club (UMPPC)**. Once a semester, **UMPPC** organises collaborative group projects where members are split into teams, each tackling a unique programming challenge. At the end of the semester, teams present their projects, giving you a chance to showcase your work and learn from others. 
-	- ~~Add link to UMPPC website or telegram~~
+- One great way to get that experience is through the [University of Manitoba Programming Practices Club (UMPPC)](https://www.instagram.com/uofmppc/). Once a semester, **UMPPC** organises collaborative group projects where members are split into teams, each tackling a unique programming challenge. At the end of the semester, teams present their projects, giving you a chance to showcase your work and learn from others. 
 ---
 ## Learning Resources
 

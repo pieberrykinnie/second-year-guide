@@ -104,5 +104,4 @@ If you're more interested in how people interact with software and how intuitive
 
 ---
 
-Discovering your interests and strengths is just the first step, but nurturing and developing them is even more important for your path. Check out our _Personal Projects_ page for ideas on projects you can start right away. You’ll also find curated resources to help you build skills in key areas like Web Development, Cybersecurity, and more.
-- ~~Add a link to the Personal Projects page~~
+Discovering your interests and strengths is just the first step, but nurturing and developing them is even more important for your path. Check out our [Personal Projects](9-personal-projects.md) page for ideas on projects you can start right away. You’ll also find curated resources to help you build skills in key areas like Web Development, Cybersecurity, and more.
