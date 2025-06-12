@@ -33,6 +33,7 @@ These careers are a great fit for people who enjoy the hands-on creation of soft
 | **Game Developer**                                    | Creates games using engines like Unity or Unreal. Often combines logic, physics, and storytelling. Note: Don't choose this path *just* because you like video games. |
 | **Artificial Intelligence/Machine Learning Engineer** | Trains and deploys models that can classify, generate, or predict based on data. Heavy math and experimentation.                                                     |
 | **DevOps Engineer**                                   | Bridge development and operations by writing code for automation, deployment, and infrastructure.                                                                    |
+
 **Signs this may be for you:**
 - You enjoy solving technical challenges and debugging.
 - You like building apps or tools from scratch.
@@ -55,6 +56,7 @@ These are about maintaining and optimising how systems run, whether it’s deplo
 |**Systems/DevOps Engineer**|Manages infrastructure, automates deployments, monitors system health.|
 |**Database Administrator (DBA)**|Designs, optimizes, and secures databases. Works closely with data-heavy apps.|
 |**Network Engineer**|Plans and troubleshoots networks and communication systems.|
+
 **Signs this may be for you:**
 - You like solving problems that affect performance, stability, or security.
 - You’re interested in automation, infrastructure, or system design.
@@ -76,6 +78,7 @@ If you're more interested in how people interact with software and how intuitive
 | **Technical Writer**      | Creates manuals, API docs, and guides. Bridges the gap between developers and users.      |
 | **IT Support Specialist** | Helps users troubleshoot problems. Often the front line of communication in tech support. |
 | **QA/Test Engineer**      | Ensures software quality through tests, bug reports, and regression analysis.             |
+
 **Signs this may be for you:**
 - You enjoy thinking about how people interact with technology.
 - You like writing or explaining things clearly.
