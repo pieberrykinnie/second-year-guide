@@ -1,104 +1,74 @@
-# Required courses and Course Plan
+# Recommended Course Plan
 
-Author: Sagar, Ray
+Congraluations on having declared your program in Computer Science! Unlike in first year where you may have been at risk of losing your first-week registration privileges if you took too long, here you're equals with every other non-first years, so take your time! Here’s a suggested guide to help you succeed in Year 2 of a Computer Science Major/Honours program. We have schedules for all Computer Science (including Joint) programs and the Data Science program; read on to find yours!
 
-**MUST BE UPDATED AGAIN AFTER ACADEMIC CALENDAR 2025-2026 IS RELEASED**
+## Courses
 
-## Outline
+### COMP Core
 
-### Must-take (BSc CS, BCSc CS)
-
-- Fall:
-  - COMP 2140 (requires COMP 1020, should do 1240 anyway)
-  - COMP 2400 (requires COMP 1020 + STAT 1150)
-  - COMP 2450 (requires COMP 1020)
-- Winter:
-  - COMP 2080 (requires COMP 2140 + MATH 1240)
-  - COMP 2280 (requires COMP 2140 + MATH 1240) (recheck if others are needed later)
-  - COMP 2452 (requires COMP 2400 + COMP 2452)
-
-### Joint CS-MATH
+There are, in total, six core COMP courses in second year:
 
 - Fall:
-  - COMP 2140
-  - COMP 2400
-  - COMP 2450
-  - MATH 2080 (requires MATH 1700 + MATH 1240)
-  - MATH 2090 (requires MATH 1300)
+  - **COMP 2140** – Data Structures: Analysis and Implementation (requires: COMP 1020)
+  - **COMP 2400** – Programming Paradigms (requires: COMP 1020 + STAT 1150)
+  - **COMP 2450** – Software Development 1 (requires: COMP 1020)
 - Winter:
-  - COMP 2080
-  - COMP 2280
-  - COMP 2452
-  - MATH 2020 (requires MATH 2090)
-  - MATH 2150 (requires MATH 2080)
-  - MATH 2180 (requires MATH 2080)
-- Recommendations:
-  - MATH 2080 is HARDER than MATH 2090 but unlocks more
-  - Real anal (MATH 2180) sucks shit
-  - don't do 5
-  - for CS-related coop, CS courses are more valuable than MATH courses
-
-### Joint CS-PHYS
-
-consult other people
-
-### Joint CS-STAT
-
-research more later
-
-### Data Science
-
-research more later
-
-
-
-###########################################################################################################
-The second year of the Computer Science program typically includes a greater number of core Computer Science courses compared to the first year. Assuming you have already declared your major as Computer Science, this section of the guide outlines a recommended course plan and highlights the required courses you must successfully complete to progress in your degree and unlock key upper-year courses.
-
-# 📘 Recommended Course Plan – Year 2 (Computer Science)
-
-Assuming you’ve completed all your Year 1 core requirements, here’s a suggested guide to help you succeed in Year 2 of a Computer Science Major/Honours program.
-
-## ✅ Core Year 2 Courses
-
-You’ll want to take the following six COMP courses in your second year:
-
-- **COMP 2140** – Data Structures  
-- **COMP 2080** – Algorithms  
-- **COMP 2400** – Programming Paradigms  
-- **COMP 2450** – Software Development 1  
-- **COMP 2452** – Software Development 2  
-- **COMP 2280** – Introduction to Computer Systems  
+  - **COMP 2080** – Algorithms: Analysis and Implementation (requires: COMP 2140 + MATH 1240)
+  - **COMP 2280** – Introduction to Computer Systems (requires: COMP 2140 + COMP 2400 + MATH 1240)
+  - **COMP 2452** – Software Development 2 (requires: COMP 2400 + COMP 2450)
 
 > ⚠️ All courses require a **minimum grade of C** to count toward your degree.
 
-### 🔄 Prerequisites Flow
+Different degrees, however, require different courses. Here's a quick reference table for what courses you may not need:
 
-- `COMP 1020` → `COMP 2140` → `COMP 2080`, `COMP 2280`  
-- `COMP 2140` + `MATH 1240` → `COMP 2080`, `COMP 2280`  
-- `COMP 2400` + `COMP 2450` → `COMP 2452`
+|Required|COMP 2080|COMP 2140|COMP 2280|COMP 2400|COMP 2450|COMP 2452|
+|------|---------|---------|---------|---------|---------|---------|
+|CS Major|Yes|Yes|Yes|Yes|Yes|Yes|
+|CS Honours|Yes|Yes|Yes|Yes|Yes|Yes|
+|CS + Math Joint|Yes|Yes|Yes|Yes|No|No|
+|CS + Physics Joint|Yes|Yes|Yes|Yes|No|No|
+|CS + Stats Joint|No|Yes|No|Yes|Yes|Yes|
+
+### COMP Options
+
+You also have other COMP options you can try, if you've already completed some core in Summer or have credits to spare:
+
+- COMP 2600 (Technical Communication in Computer Science): Offered in Winter, this course teaches you the tools and techniques necessary to be an effective communicator in Computer Science. If the programming standards you learned in first year aren't enough to convince you, being able to communicate well beats being able to code fast every time! You also learn genuinely useful, job-applicable tools such as Git, static site generators, and OpenAPI.
+- COMP 1002 + 1006 (Introduction to Tools and Techniques in Computer Science): You learn useful tools that you probably wish you knew in first year, if you haven't taken these courses already. They're worth only 3 credits altogether. You can peep at the textbook [here](https://toolsntechniques.ca/)!
+- COMP 2002 + 2006 (Tools and Techniques in Computer Scinece): The latest iteration of these also 1.5 crs lab courses had you explore Python, Lisp, C and Go as programming languages and comparing and contrasting them to Java. Diversity in knowledge means more resume bullet points and makes you a better computer scientist!
+- COMP 1600 (Navigating Your Digital World): If you haven't taken this already in first year, it is a good overview on how digitalization has shaped our world. As you're furthering your education to become a well-rounded computer scientist, you should be aware of the effect your field has on humanity at large. This course is also a spiritual precursor to COMP 4620, a mandatory course you'll have to take in the future.
+
+If you did COMP 2140 in Summer, depending on whether you do COMP 2080 early in the same Summer or Fall, you may also have a crack at COMP 3030 in Fall and COMP 3170 in Winter.
+
+### Electives
+
+Outside of COMP courses, you can also begin thinking about electives and minors to supplement your degree. We have a lot to say on this; refer to [Elective and Minors](./3-electives-and-minors.md) for the full detail.
+
+However, do make sure that, in your first **60 credit hours**, you:
+- Complete 6 crs worth of Faculty of Arts courses
+- Complete a 3 crs W (Writing) course
+These requirements are not mutually exclusive. If you followed our First Year Guide, you likely have already finished one W Arts course, and you'll only need one more. Regardless, you should probably get these over with in your second year. Schedules get less flexible from here!
 
 ---
 
-## 📚 Course Load Options
+Let's move on to the actual schedules!
 
-### 🟦 Standard Schedule (Balanced)
+## Computer Science Honours/Major
+
+### Standard Schedule (Balanced)
 
 A practical plan if you're comfortable with Year 1 material.
 
-| Fall        | Winter        | Summer (optional)             |
-|-------------|---------------|------------------------       |
-| COMP 2140   | COMP 2080     | COMP elective or extra course |
-| COMP 2400   | COMP 2452     |                               |
-| COMP 2450   | COMP 2280     |                               |
-| Elective    | Elective      |                               |
-
-- Recommended for most students.
-- Use Summer to explore COMP/MATH/STAT electives.
+| Fall        | Winter        | Summer (optional)      |
+|-------------|---------------|------------------------|
+| COMP 2140   | COMP 2080     | COMP 3XXX              |
+| COMP 2400   | COMP 2452     |                        |
+| COMP 2450   | COMP 2280     |                        |
+| Elective    | Elective      |                        |
 
 ---
 
-### 🟧 Maximized Schedule (Aggressive)
+### Maximized Schedule
 
 Recommended **only** if you did very well in Year 1 and are aiming for Joint Honours or early research opportunities.
 
