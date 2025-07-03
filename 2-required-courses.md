@@ -37,6 +37,8 @@ You also have other COMP options you can try, if you've already completed some c
 - COMP 1002 + 1006 (Introduction to Tools and Techniques in Computer Science): You learn useful tools that you probably wish you knew in first year, if you haven't taken these courses already. They're worth only 3 credits altogether. You can peep at the textbook [here](https://toolsntechniques.ca/)!
 - COMP 2002 + 2006 (Tools and Techniques in Computer Scinece): The latest iteration of these also 1.5 crs lab courses had you explore Python, Lisp, C and Go as programming languages and comparing and contrasting them to Java. Diversity in knowledge means more resume bullet points and makes you a better computer scientist!
 - COMP 1600 (Navigating Your Digital World): If you haven't taken this already in first year, it is a good overview on how digitalization has shaped our world. As you're furthering your education to become a well-rounded computer scientist, you should be aware of the effect your field has on humanity at large. This course is also a spiritual precursor to COMP 4620, a mandatory course you'll have to take in the future.
+- COMP 3490 (Computer Graphics 1): While this course normally requires COMP 2452, another alternative prerequisite path is COMP 2140 + any MATH 2XXX course. If you're interested in Graphics, consider doing a second-year MATH course in Fall and taking this Winter!
+- Any other courses you have the prerequisites for and are interested in!
 
 If you did COMP 2140 in Summer, depending on whether you do COMP 2080 early in the same Summer or Fall, you may also have a crack at COMP 3030 in Fall and COMP 3170 in Winter.
 
@@ -55,10 +57,6 @@ Let's move on to the actual schedules!
 
 ## Computer Science Honours/Major
 
-### Standard Schedule (Balanced)
-
-A practical plan if you're comfortable with Year 1 material.
-
 | Fall        | Winter        | Summer (optional)      |
 |-------------|---------------|------------------------|
 | COMP 2140   | COMP 2080     | COMP 3XXX              |
@@ -66,43 +64,31 @@ A practical plan if you're comfortable with Year 1 material.
 | COMP 2450   | COMP 2280     |                        |
 | Elective    | Elective      |                        |
 
----
+Not much else to say here; there are 6 courses you're expected to complete, and you must have completed every first year course already if you're in the program. It's just padding on extra electives or higher-level courses if you feel like it.
 
-### Maximized Schedule
+### If you haven't completed STAT 1150
 
-Recommended **only** if you did very well in Year 1 and are aiming for Joint Honours or early research opportunities.
+| Fall        | Winter        | Summer (if offered)    |
+|-------------|---------------|------------------------|
+| COMP 2140   | COMP 2080     | COMP 2280              |
+| STAT 1150   | COMP 2400     | COMP 2452              |
+| COMP 2450   | Elective      |                        |
+| Elective    | Elective      |                        |
 
-| Fall        | Winter        | Summer                       |
-|-------------|---------------|---------------------         |
-| COMP 2140   | COMP 2080     | COMP 3380 / Co-op / Research |
-| COMP 2400   | COMP 2452     |                              |
-| COMP 2450   | COMP 2280     |                              |
-| Elective    | Elective      |                              |
+**Note**: We don't know if and when COMP 2452 will be offered in Summer; this is just a suggestion. It's likely that you'll have to push the course to your third year and not qualify for Co-op after finishing Winter. In that case, if you want to maximize your Co-op chance, consider taking 3 courses so you don't accumulate too many credit hours. More details can be found in our later section "The Co-op Program".
 
-> ⚠️ This is an intense workload. Avoid if GPA was below 3.5 in Year 1.
+### If you completed some core courses in Summer
 
----
+- COMP 2140: You can take COMP 2080 in Fall. COMP 2080 is generally regarded as a hard course, so doing so allows you to retake it in Winter if necessary. If you finish COMP 2080 in Fall, you can consider doing COMP 3170 in Winter if you're considering Honours.
+- COMP 2080: If you had the type of Summer where you took both data structures and algorithms courses, congratulations! Your term should be much lighter. If you want to keep up the pace and are considering Honours, COMP 3030 in Fall and COMP 3170 in Winter are courses you can get out of the way early.
 
-### 🟥 Extended Schedule (Protect GPA)
+### If you're in COMP 2160 + 2150 limbo (2025 - 2026 term only)
 
-Designed for students who struggled with Year 1 math/programming or want a lighter load.
+> This is for the students who have already begun taking second year courses since Winter 2025.
 
-| Fall        | Winter        | Summer       |
-|-------------|---------------|--------------|
-| COMP 2140   | COMP 2450     | COMP 2080    |
-| COMP 2400   | COMP 2280     |              |
-| Elective    | Elective      |              |
-
-- Gives more time to digest heavy concepts.
-- Useful if MATH 1240 was difficult.
-
----
-
-- ✅ **Start with COMP 2140**: It unlocks most Year 2 courses.
-- ✅ Take **MATH 1240** before or with COMP 2080/2280.
-- 📈 **Prioritize GPA** over speed; retaking courses delays graduation more than going slow.
-- 📅 Plan for Year 3: Many COMP 3000+ courses require COMP 2080 and 2140.
-- 📊 Consider **MATH 2720** (Multivariable Calc) or **MATH 2130** (Discrete Math) for extra prep or Joint Honours.
+- If you haven't completed COMP 2160 by now: Take COMP 2400 + 2450 in Fall and COMP 2452 in Winter to sync up with the new second years, and any other second year COMP courses you haven't completed already.
+- If you have completed COMP 2160 but not 2150: **Take the last COMP 2150 section in Fall**. Complete other second year COMP courses if you haven't already. If you're unable to take the Fall 2150, contact an academic advisor, as you'll likely need to deprecate your COMP 2160 credits so you can take COMP 2400 + 2450 + 2452 alongside future second years.
+- If you've completed COMP 2160 + 2150: Finish the rest of your second year courses. All other advices regarding course selection apply.
 
 ---
 
