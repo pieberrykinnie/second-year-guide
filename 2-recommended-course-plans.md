@@ -360,7 +360,7 @@ There is no COMP-focused Schedule variation, as you have to take COMP 2452. You 
 | COMP 2450        | MATH 2150        ||
 | MATH 2080        | STAT 2400        ||
 
-If you want to experience the rigor of pure mathematics (and/or get your free Minor done early), this is an alternative. Note that you don't miss out on third year courses as the one that require STAT 2800, which can be taken Fall, is offered in Winter (3030); the rest only requires STAT 2400.
+If you want to experience the rigor of pure mathematics (and/or get your free Minor done early), this is an alternative. Note that you don't miss out on third year courses as the one that requires STAT 2800, which can be taken Fall, is offered in Winter (3030); the rest only requires STAT 2400.
 
 ### If you haven't done MATH 1240/1300
 
