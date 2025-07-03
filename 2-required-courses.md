@@ -2,9 +2,9 @@
 
 Congraluations on having declared your program in Computer Science! Unlike in first year where you may have been at risk of losing your first-week registration privileges if you took too long, here you're equals with every other non-first years, so take your time! Here’s a suggested guide to help you succeed in Year 2 of a Computer Science Major/Honours program. We have schedules for all Computer Science (including Joint) programs and the Data Science program; read on to find yours!
 
-## Courses
+## Second Year Courses
 
-### COMP Core
+### Core Course
 
 There are, in total, six core COMP courses in second year:
 
@@ -92,28 +92,22 @@ Not much else to say here; there are 6 courses you're expected to complete, and 
 
 ---
 
-# 📘 Recommended Course Plan – Year 2 (Joint Honours: Computer Science + Mathematics)
+## Joint Honours: Computer Science + Mathematics
 
-This guide assumes you’re continuing in the **Joint Honours program** in Computer Science and Mathematics. Your goal this year is to complete most of the required COMP 2000- and MATH 2000-level core courses, which unlock upper-year options and prepare you for research, co-op, or thesis work.
+### Core Courses
 
----
+Note the lack of COMP 2450 + 2452, but now you're expected to take 5 (five!) more MATH courses:
 
-## ✅ Core Year 2 Courses
-
-You’ll want to complete the following key courses:
-
-### 🧠 Computer Science (COMP)
-- **COMP 2140** – Data Structures  
-- **COMP 2080** – Algorithms  
-- **COMP 2400** – Programming Paradigms  
-- **COMP 2280** – Intro to Computer Systems  
-
-### 📐 Mathematics (MATH)
-- **MATH 2020** – Algebra 1  
-- **MATH 2080** – Introduction to Analysis  
-- **MATH 2090** – Linear Algebra 2  
-- **MATH 2150** – Multivariable Calculus  
-- **MATH 2180** – Real Analysis 1  
+- Fall:
+  - **COMP 2140** – Data Structures: Analysis and Implementation (requires: COMP 1020)
+  - **COMP 2400** – Programming Paradigms (requires: COMP 1020 + STAT 1150)
+  - **MATH 2080** - Introduction to Analysis (requires: every MATH 1XXX)
+  - **MATH 2090** - Linear Algebra 2 (requires: MATH 1300)
+- Winter:
+  - **COMP 2080** – Algorithms: Analysis and Implementation (requires: COMP 2140 + MATH 1240)
+  - **COMP 2280** – Introduction to Computer Systems (requires: COMP 2140 + COMP 2400 + MATH 1240)
+  - **MATH 2020** - Algebra 1 (requires: MATH 2090)
+  - **MATH 2150** - 
 
 🎯 Plus **1 elective** (3 credit hours)
 
