@@ -6,6 +6,15 @@ Congraluations on having declared your program in Computer Science! Unlike in fi
 
 This section will focus mainly on those "on-stream", or those who have declared their program before the upcoming registration period. We apologize for not being able to include everyone, but as you can see, this is already long enough! Regardless, we do mention a lot of things that will be applicable to you in building your own schedule.
 
+## Table of Content
+
+1. [Second Year Courses](#second-year-courses)
+2. [Computer Science Honours/Major](#computer-science-honours/major)
+3. [Joint Honours: Computer Science + Mathematics](#joint-honours:-Computer-Science-+-Mathematics)
+4. [Joint Honours: Computer Science + Physics & Astronomy](#joint-honours:-Computer-Science-+-physics-&-astronomy)
+5. [Joint Honours: Computer Science + Statistics](#joint-honours:-Computer-Science-+-statistics)
+6. [Data Science](#data-science)
+
 ## Second Year Courses
 
 ### Core COMP Courses
