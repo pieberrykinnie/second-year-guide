@@ -13,83 +13,120 @@ You don’t need to have all the answers yet. But if you're still figuring thing
 - Do I feel more satisfied starting from scratch or improving what already exists?
 - What courses have I enjoyed most, and why?
 ---
-## Possible Career Paths
 
-Below is a curated list of key focus areas within Computer Science, along with detailed descriptions of the kinds of roles and career paths you might explore in each category. 
+## Possible Career Paths  
+Explore key focus areas in Computer Science below, paired with roles that align with them. Use your interests in specific courses, projects, or topics as a compass to identify paths that resonate with you.  
 
-> **Note:** Job titles can vary significantly between companies, and the responsibilities associated with a title like _Software Developer_ or _Data Analyst_ might look very different depending on the context.
+> **Note:** Job titles and responsibilities vary widely. For example, a "Software Developer" at one company may focus on AI systems, while at another, they might build enterprise databases.  
 
-This guide is meant to give you a starting point for exploring what kinds of opportunities align with your interests, especially as you start to notice which courses, projects, or topics you gravitate toward during your time in university.
+### 🛠️ Software Development & Engineering  
+*Ideal if you love coding, building applications, and collaborative problem-solving.*  
+Roles here involve designing, writing, testing, and maintaining software — often in teams.  
+
+| Role                          | Description                                                                                                 |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Software Developer**        | Builds desktop/mobile apps (system-level or application-level). Strong focus on architecture and scalability. |
+| **Web Developer**             | Develops websites/web apps. Specializes in front-end (UI), back-end (APIs/servers), or full-stack.          |
+| **Game Developer**            | Creates games using engines like Unity/Unreal. Combines logic, physics, and storytelling.                   |
+| **QA/Test Engineer**          | Ensures software quality via automated testing, bug tracking, and user-experience validation.               |
+
+**Signs this may be for you:**  
+- You enjoy debugging, collaborative coding, or hackathons.  
+- You’re driven by seeing your projects come to life.  
+- Courses like COMP 3350 (Software Engineering) or COMP 3490 (Graphics) excite you.  
+
+**Related 3000-level courses:**  
+- COMP 3350 – Software Engineering 1  
+- COMP 3490 – Computer Graphics 1  
+- COMP 3580 – Application Security *(security-focused development)*  
 
 ---
-### Development-Oriented Roles
 
-Consider this path if you’re especially drawn to courses with a strong programming focus. These roles are centred around writing, testing, and maintaining code, and often will involve working within a team. 
+### ⚙️ Systems, Infrastructure & Security  
+*Focuses on scalability, reliability, and protecting systems/networks.*  
+Ideal for those intrigued by how software interacts with hardware, networks, or data storage.  
 
-These careers are a great fit for people who enjoy the hands-on creation of software, seeing their code come to life, and improving the reliability and performance of different programs. 
+| Role                          | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **DevOps Engineer**           | Automates deployment, monitoring, and infrastructure management.            |
+| **Cybersecurity Analyst**     | Defends systems from threats, audits vulnerabilities, and designs safeguards.|
+| **Network/Systems Engineer**  | Designs/troubleshoots networks, servers, and distributed systems.          |
+| **Database Administrator**    | Optimizes data storage, queries, and security for data-heavy applications.  |
 
-| Role                                                  | Description                                                                                                                                                          |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Software Developer**                                | Builds desktop or mobile applications. Could be system-level or application-level.                                                                                   |
-| **Web Developer**                                     | Works on websites and web apps. Might specialize in front-end (user interface) or back-end (data/server logic).                                                      |
-| **Game Developer**                                    | Creates games using engines like Unity or Unreal. Often combines logic, physics, and storytelling. Note: Don't choose this path *just* because you like video games. |
-| **Artificial Intelligence/Machine Learning Engineer** | Trains and deploys models that can classify, generate, or predict based on data. Heavy math and experimentation.                                                     |
-| **DevOps Engineer**                                   | Bridge development and operations by writing code for automation, deployment, and infrastructure.                                                                    |
+**Signs this may be for you:**  
+- You care about system efficiency, preventing failures, or encryption.  
+- Topics like cloud computing, networking, or OS internals intrigue you.  
+- You enjoy courses such as COMP 3430 (Operating Systems) or COMP 3370 (Computer Org).  
 
-**Signs this may be for you:**
-- You enjoy solving technical challenges and debugging.
-- You’ve completed personal projects or enjoyed hackathons.
-- You’re curious about how code works under the hood.
+**Related 3000-level courses:**  
+- COMP 3010 – Distributed Computing  
+- COMP 3370 – Computer Organisation  
+- COMP 3430 – Operating Systems  
+- COMP 3380 – Database Concepts and Usage  
 
-**Related 3000-level courses:**
-- COMP 3350 – Software Engineering 1
-- COMP 3440 – Programming Language Concepts
-- COMP 3010 – Distributed Computing
-- COMP 3290 – Compiler Construction
 ---
-### Infrastructure, Security & Operations
 
-These are about maintaining and optimising how systems run, whether it’s deploying software, protecting networks, or storing data reliably.
+### 🤖 Artificial Intelligence & Data Science  
+*For those fascinated by data-driven decision-making, pattern recognition, or machine intelligence.*  
+Roles involve training models, deriving insights from data, and building intelligent systems.  
 
-|Role|Description|
-|---|---|
-|**Cybersecurity Analyst**|Protects systems from attacks, analyzes threats, and enforces security policies.|
-|**Systems/DevOps Engineer**|Manages infrastructure, automates deployments, monitors system health.|
-|**Database Administrator (DBA)**|Designs, optimizes, and secures databases. Works closely with data-heavy apps.|
-|**Network Engineer**|Plans and troubleshoots networks and communication systems.|
+| Role                          | Description                                                                |
+|-------------------------------|----------------------------------------------------------------------------|
+| **AI/ML Engineer**            | Designs/trains models for prediction, classification, or generative tasks. |
+| **Data Scientist**            | Extracts insights from data using stats, ML, and visualization tools.      |
+| **Data Engineer**             | Builds pipelines to collect, process, and store large-scale data.         |
 
-**Signs this may be for you:**
-- You like solving problems that affect performance, stability, or security.
-- You’re interested in automation, infrastructure, or system design.
-- You think about how to prevent failures, not just how to build features.
+**Signs this may be for you:**  
+- You’re drawn to statistics, algorithms, or optimizing models.  
+- Projects involving datasets, NLP, or computer vision excite you.  
+- You excel in math-heavy courses like COMP 3170 (Algorithms).  
 
-**Related 3000-level courses:**
-- COMP 3430 – Operating Systems
-- COMP 3370 – Computer Organisation
-- COMP 3380 – Database Concepts and Usage
-- COMP 3010 – Distributed Computing
+**Related 3000-level courses:**  
+- COMP 3190 – Introduction to Artificial Intelligence  
+- COMP 3360 – Machine Learning Concepts and Usage  
+- COMP 3170 – Analysis of Algorithms and Data Structures  
+- COMP 3380 – Database Concepts and Usage *(data pipeline foundations)*  
+
 ---
-### Design & Human-Computer Interactions
 
-If you're more interested in how people interact with software and how intuitive, accessible, or enjoyable it is to use, this path may be for you. These roles often appeal to students who enjoy writing, organising information, or communicating ideas clearly.
+### 🧠 Theory, Algorithms & Formal Methods  
+*Explores computational principles, complex problem-solving, and mathematical foundations.*  
+Suited for abstract thinkers interested in research, optimization, or cutting-edge innovation.  
 
-| Role                      | Description                                                                               |
-| ------------------------- | ----------------------------------------------------------------------------------------- |
-| **UI/UX Designer**        | Designs user interfaces and workflows. Combines psychology, aesthetics, and usability.    |
-| **Technical Writer**      | Creates manuals, API docs, and guides. Bridges the gap between developers and users.      |
-| **IT Support Specialist** | Helps users troubleshoot problems. Often the front line of communication in tech support. |
-| **QA/Test Engineer**      | Ensures software quality through tests, bug reports, and regression analysis.             |
+| Role                          | Description                                                                |
+|-------------------------------|----------------------------------------------------------------------------|
+| **Research Scientist**        | Solves theoretical problems (e.g., quantum computing, complexity theory). |
+| **Algorithm Engineer**        | Designs optimized algorithms for data processing, cryptography, or AI.     |
 
-**Signs this may be for you:**
-- You enjoy thinking about how people interact with technology.
-- You like writing or explaining things clearly.
-- You value well-designed, intuitive software.
-- You’re curious about testing and quality assurance.
+**Signs this may be for you:**  
+- You enjoy mathematical proofs, automata, or optimization challenges.  
+- Courses like COMP 3030 (Automata) feel intellectually rewarding.  
+- You ponder questions like *"Can this problem be solved more efficiently?"*  
 
-**Related 3000-level courses:**
-- COMP 3020 – Human-Computer Interaction 1
-- COMP 3350 – Software Engineering 1
-- COMP 3440 – Programming Language Concepts
+**Related 3000-level courses:**  
+- COMP 3030 – Automata Theory and Formal Languages  
+- COMP 3170 – Analysis of Algorithms and Data Structures  
+
+---
+
+### 👥 Human-Centered Design  
+*Blends creativity, psychology, and tech to build intuitive user experiences.*  
+Roles bridge technical implementation with user needs through design, writing, and testing.  
+
+| Role                          | Description                                                                |
+|-------------------------------|----------------------------------------------------------------------------|
+| **UI/UX Designer**            | Crafts user interfaces, workflows, and usability tests.                    |
+| **Technical Writer**          | Creates documentation, manuals, and developer guides.                      |
+| **Product Manager**           | Defines software requirements by balancing user needs, business goals, and technical constraints. |
+
+**Signs this may be for you:**  
+- You prioritize user-friendliness, accessibility, or clear communication.  
+- You enjoy prototyping, user research, or technical writing.  
+- Courses like COMP 3020 (HCI) align with your strengths.  
+
+**Related 3000-level courses:**  
+- COMP 3020 – Human-Computer Interaction 1  
+- COMP 3350 – Software Engineering 1 *(requirements/design phase)*  
 
 ---
 ## Further Resources & Exploration
