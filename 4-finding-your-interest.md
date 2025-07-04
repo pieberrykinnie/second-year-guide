@@ -136,7 +136,7 @@ Roles bridge technical implementation with user needs through design, writing, a
 - [**Career Paths in Tech (GitHub)**](https://github.com/kamranahmedse/developer-roadmap)  
     - A GitHub repo of learning paths and diagrams for dozens of tech careers, everything from Site Reliability Engineering to Blockchain Development.
 - [**CS Career Questions (Reddit)**](https://www.reddit.com/r/cscareerquestions/)  
-    - A large, student-friendly community discussing internships, job searches, resume reviews, and general industry questions. Insightful for real-world experiences.
+    - A large, student-friendly community discussing internships, job searches, resumé reviews, and general industry questions. Insightful for real-world experiences.
 - [**Tech Roles Explained (LinkedIn Blog)**](https://www.linkedin.com/pulse/tech-career-paths-which-one-right-you-leonardo-sordini/)  
 	- Overview of common tech career paths including software dev, QA, IT, and product management, with helpful diagrams and advice for self-assessment. 
 

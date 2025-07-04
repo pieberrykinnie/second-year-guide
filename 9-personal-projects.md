@@ -1,13 +1,13 @@
 # Personal Projects
 
-**Building larger personal projects is one of the most impactful ways to grow as a Computer Science student.** Unlike the shorter assignments typical of 1000 and 2000-level courses, personal projects give you the freedom to dive deep into problem-solving, apply your skills across different programming languages, and learn by doing. They not only sharpen your technical abilities but also serve as a creative outlet to explore your interests. Plus, a strong project portfolio is a great addition to your resume, as many employers in tech often look beyond grades to see what you’ve actually built.
+**Building larger personal projects is one of the most impactful ways to grow as a Computer Science student.** Unlike the shorter assignments typical of 1000 and 2000-level courses, personal projects give you the freedom to dive deep into problem-solving, apply your skills across different programming languages, and learn by doing. They not only sharpen your technical abilities but also serve as a creative outlet to explore your interests. Plus, a strong project portfolio is a great addition to your resumé, as many employers in tech often look beyond grades to see what you’ve actually built.
 
 - - -
 ## How Can I Get Started?
 
 You want to start a personal project, but you're stuck on the most important question: what should you build? You might also be wondering to yourself, 
 - "What would I actually enjoy making?" 
-- "What would look impressive on my resume?" 
+- "What would look impressive on my resumé?" 
 - "What project fits my current skill level?"
 
 Feeling overwhelmed at the start is completely normal, but the best way to get moving is to build something you’re genuinely excited about. Don’t worry about creating the next viral social media app. Instead, focus on a topic you care about or a small problem you’d like to solve in your daily life. That personal connection is key to staying motivated and seeing your project through to the end. Projects are a lot more fun (and far more likely to get finished) when you’re excited about what you’re building.
@@ -31,7 +31,7 @@ If you're looking for more specific inspiration based on the programming languag
 | Python      | Music Player               | Build a media player that can play, pause, and skip audio files.           | Hard       |
 | C++         | Dating App                 | Simulate a basic dating app with profiles and a matching algorithm.        | Hard       |
 | JavaScript  | Weather App                | Displays current weather using a weather API and dynamic UI updates.       | Easy       |
-| HTML/CSS/JS | Personal Portfolio Website | Build a responsive website to showcase your projects, resume, and contact. | Easy       |
+| HTML/CSS/JS | Personal Portfolio Website | Build a responsive website to showcase your projects, resumé, and contact. | Easy       |
 
 
 **Note:** For the projects labeled "Hard", consider working on them as a group. Additionally, don't restrict yourself to just coding in language for more complex projects.

@@ -26,11 +26,11 @@ Employers value a blend of **technical** and **transferable** skills.
 Technical skills are important and worth developing; however, employers often **expect to train** new hires in specific tools or technologies. What they truly **rely on** are strong transferable skills. You don’t need to master every programming language, instead, focus on becoming confident and proficient in one or two. The problem-solving and logical thinking you develop will translate well to other languages and technologies. At this stage, a solid foundation and the ability to learn quickly are just as valuable as your current technical knowledge.
 
 ---
-## Resume Formatting
+## Resumé Formatting
 
-Your resume should be clean, consistent, and easy to read at a glance. Use professional formatting with clear headings, uniform spacing, and a readable font. Organise your content in a way that highlights your strengths and draws attention to the most relevant experiences, skills, and accomplishments. Tailor your section headings  (_Projects_, _Technical Skills_, or _Experience_) to best reflect the role you’re applying for and the qualities that will resonate with employers in that field.
+Your resumé should be clean, consistent, and easy to read at a glance. Use professional formatting with clear headings, uniform spacing, and a readable font. Organise your content in a way that highlights your strengths and draws attention to the most relevant experiences, skills, and accomplishments. Tailor your section headings  (_Projects_, _Technical Skills_, or _Experience_) to best reflect the role you’re applying for and the qualities that will resonate with employers in that field.
 
-Your resume can and _should_ be different depending on the position you’re applying to. While it’s helpful to maintain a strong “base” resume that contains your core experiences and skills, you should be prepared to make adjustments for each application. This could mean reordering sections or technical skills and emphasising different experiences to better match the job description.
+Your resumé can and _should_ be different depending on the position you’re applying to. While it’s helpful to maintain a strong “base” resumé that contains your core experiences and skills, you should be prepared to make adjustments for each application. This could mean reordering sections or technical skills and emphasising different experiences to better match the job description.
 
 ---
 ### Header
