@@ -43,22 +43,9 @@ Different degrees, however, require different courses. Here's a quick reference 
 |CS + Stats Joint|Yes|Yes|No|Yes|Yes|Yes|
 |Data Science|No|Yes|No|Yes|Yes|Yes|
 
-### COMP Options
-
-You also have other COMP options you can try, if you've already completed some core in Summer or have credits to spare:
-
-- COMP 2600 (Technical Communication in Computer Science): Offered in Winter, this course teaches you the tools and techniques necessary to be an effective communicator in Computer Science. If the programming standards you learned in first year aren't enough to convince you, being able to communicate well beats being able to code fast every time! You also learn genuinely useful, job-applicable tools such as Git, static site generators, and OpenAPI.
-- COMP 1002 + 1006 (Introduction to Tools and Techniques in Computer Science): You learn useful tools that you probably wish you knew in first year, if you haven't taken these courses already. They're worth only 3 credits altogether. You can peep at the textbook [here](https://toolsntechniques.ca/)!
-- COMP 2002 + 2006 (Tools and Techniques in Computer Scinece): The latest iteration of these also 1.5 crs lab courses had you explore Python, Lisp, C and Go as programming languages and comparing and contrasting them to Java. Diversity in knowledge means more resume bullet points and makes you a better computer scientist!
-- COMP 1600 (Navigating Your Digital World): If you haven't taken this already in first year, it is a good overview on how digitalization has shaped our world. As you're furthering your education to become a well-rounded computer scientist, you should be aware of the effect your field has on humanity at large. This course is also a spiritual precursor to COMP 4620, a mandatory course you'll have to take in the future.
-- COMP 3490 (Computer Graphics 1): While this course normally requires COMP 2452, another alternative prerequisite path is COMP 2140 + any MATH 2XXX course. If you're interested in Graphics, consider doing a second-year MATH course in Fall and taking this Winter!
-- Any other courses you have the prerequisites for and are interested in!
-
-If you did COMP 2140 in Summer, depending on whether you do COMP 2080 early in the same Summer or Fall, you may also have a crack at COMP 3030 in Fall and COMP 3170 in Winter.
-
 ### Electives
 
-Outside of COMP courses, you can also begin thinking about electives and minors to supplement your degree. We have a lot to say on this; refer to [Elective and Minors](./3-electives-and-minors.md) for the full detail.
+Outside of COMP courses, you should also begin thinking about electives and minors to supplement your degree. We have a lot to say on this; refer to [Elective and Minors](./3-electives-and-minors.md) for the full detail.
 
 However, do make sure that, in your first **60 credit hours**, you complete a 3 crs W (Writing) course. This is mandatory. If you haven't already done it in first year, take it in Summer if you can't fit it into our suggested schedule.
 
