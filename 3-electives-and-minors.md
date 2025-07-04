@@ -1,21 +1,5 @@
 # Electives and Minors
 
-Author: Sagar
-
-- potential minors
-  - MATH: only need 2 more courses
-    - MATH 2740
-      - data science cool, lots of programming
-    - MATH 2070
-      - graph theory very applicable in cs (data structures)
-    - MATH 2090
-      - linalg very applicable in cs (graphics)
-    - MATH 2720
-      - calc cool in ml
-  - if you took electivesi n first year and liked them consider doing minor that supplements your
-    - interests
-    - intended occupation (e.g. STAT for AI/ML, ECON for BA, etc.)
-
 **You haven't forgotten that you *need* to take a W course in your first 60 credit hours?** You didn't? Great! Continue reading!
 
 ## COMP Courses
