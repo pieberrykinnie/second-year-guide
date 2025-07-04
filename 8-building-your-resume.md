@@ -1,17 +1,19 @@
+# Building Your Resumé
+
 By the second year, many Computer Science students begin exploring internship opportunities, either through the Computer Science Co-op program or by applying to independent internships on their own. One of the most nerve-wracking parts of this process is trying to build a standout resumé.
 
 Your resumé is a vital tool for communicating how your skills, education, and experiences align with what employers need in tech roles. A strong resumé clearly shows that you:
-- **Can do the job** (technical and analytical ability)
-- **Will do the job** (motivation, initiative and other soft skills)
-- **Fit the team** (communication and adaptability)
+- Can do the job (technical and analytical ability)
+- Will do the job (motivation, initiative and other soft skills)
+- Fit the team (communication and adaptability)
 ---
 ## Target Your Resumé
 
 Employers should be able to tell within **10 to 30 seconds** why you're a strong candidate. They won’t spend time reading every detail of the dozens or hundreds of resumés they receive. Your goal is to stand out quickly and clearly.
 
-Whether your strongest asset is your education, a technical project, or an internship, make sure it appears **on the first page** of your resumé if it spans multiple pages.
+Whether your strongest asset is your education, a technical project, or an internship, make sure it appears on the first page of your resumé if it spans multiple pages.
 
-> **NOTE:** Multiple-page resumés are acceptable, but limit them to a maximum of two pages. For Co-Op applications, two pages are generally acceptable. For traditional internships, you're better off with a condensed one-page resumé.
+> **Note:** Multiple-page resumés are acceptable, but limit them to a maximum of two pages. For Co-Op applications, two pages are generally acceptable. For traditional internships, you're better off with a condensed one-page resumé.
 
 ### So, What Are Employers Looking For?
 Employers value a blend of **technical** and **transferable** skills.
@@ -42,7 +44,7 @@ Your resume can and _should_ be different depending on the position you’re app
 	- Portfolio of personal projects
 		- Could be in the form of a website
 
-> **DO NOT** include your full home address. If the job is local, listing your city and province is sufficient.
+> **⚠️ Do not** include your full home address. If the job is local, listing your city and province is sufficient.
 
 ---
 ### Education
@@ -103,7 +105,7 @@ Include this section to demonstrate:
 - Familiarity with tools, technologies, or frameworks relevant to the field (hard skills)
 - Problem-solving and software design skills (soft & hard skills)
 
-> **Tip:** If you don’t have many (or any) personal projects in your portfolio yet, there is still time to get started. Check out the [Personal Projects](9-personal-projects.md) section of this guide for ideas and inspiration. 
+> **Tip:** If you don’t have many (or any) personal projects in your portfolio yet, there is still time to get started. Check out the [Personal Projects](9-personal-projects.md) section of this guide for inspiration. 
 
 
 - **Must-Have:**
@@ -156,10 +158,10 @@ Before submitting your resumé, ask yourself:
 
 #### Sections & Info to Leave Out
 
-| Don’t Include                        | Examples                                             | Instead Include                                                                                              |
+| Don’t Include                        | Examples                                             | Instead                                                                                               |
 | ------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Objective                            | “I want to gain experience in software development.” | Use a tailored profile or summary that highlights your strengths and goals instead               |
-| Personal pronouns (Me, I, you, etc.) | “I managed a team of five.”                          | Keep your writing formal and concise, avoid using “I,” “me,” or “you”                            |
-| Duties list                          | “Answered customer calls, filed documents.”          | Focus on specific achievements, and remember to include quantities and impacts as well as action |
-| References section                   | “References available upon request.”                 | Provide only if requested; otherwise, bring reference list to interview                          |
+| Objective                            | “I want to gain experience in software development” | Use a tailored profile or summary that highlights your strengths and goals instead               |
+| Personal pronouns (Me, I, you, etc.) | “I managed a team of five”                          | Keep your writing formal and concise, avoid using “I,” “me,” or “you”                            |
+| Duties list                          | “Answered customer calls, filed documents”          | Focus on specific achievements, and remember to include quantities and impacts as well as action |
+| References section                   | Including a reference list                 | Provide only if requested. Otherwise, bring reference list to interview                          |
 | Personal details/photos              | Photo, birthdate, marital status, nationality        | Not relevant and may introduce unconscious bias                                                  |

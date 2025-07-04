@@ -1,14 +1,14 @@
-## Why Should I Make Personal Projects?
+# Personal Projects
 
 **Building larger personal projects is one of the most impactful ways to grow as a Computer Science student.** Unlike the shorter assignments typical of 1000 and 2000-level courses, personal projects give you the freedom to dive deep into problem-solving, apply your skills across different programming languages, and learn by doing. They not only sharpen your technical abilities but also serve as a creative outlet to explore your interests. Plus, a strong project portfolio is a great addition to your resume, as many employers in tech often look beyond grades to see what you’ve actually built.
 
 - - -
 ## How Can I Get Started?
 
-You want to start a personal project, but you're stuck on the most important question: **what should you build?** You might also be wondering to yourself, 
-- _"What would I actually enjoy making?"_ 
-- _"What would look impressive on my resume?"_ 
-- _"What project fits my current skill level?"_
+You want to start a personal project, but you're stuck on the most important question: what should you build? You might also be wondering to yourself, 
+- "What would I actually enjoy making?" 
+- "What would look impressive on my resume?" 
+- "What project fits my current skill level?"
 
 Feeling overwhelmed at the start is completely normal, but the best way to get moving is to build something you’re genuinely excited about. Don’t worry about creating the next viral social media app. Instead, focus on a topic you care about or a small problem you’d like to solve in your daily life. That personal connection is key to staying motivated and seeing your project through to the end. Projects are a lot more fun (and far more likely to get finished) when you’re excited about what you’re building.
 
@@ -20,20 +20,23 @@ Feeling overwhelmed at the start is completely normal, but the best way to get m
 
 If you're looking for more specific inspiration based on the programming languages you're learning or currently exploring, here are a few suggestions:
 
-| Language    | Project                    | Description                                                                                  | Difficulty |
-| ----------- | -------------------------- | -------------------------------------------------------------------------------------------- | ---------- |
-| Java        | Type Speed Program         | A typing test app that tracks how fast and accurately you type.                              | Easy       |
-| Java        | Flappy Bird                | A clone of the classic game using Java graphics library.                                     | Medium     |
-| Java        | VPN                        | Create a basic Virtual Private Network with encryption and tunneling.                        | Hard       |
-| Python      | Alarm Clock                | Simple, but gives you an introduction to using APIs[^1] and time-based tasks.                    | Easy       |
-| Python      | Password Manager           | Store and encrypt passwords securely, with a user-friendly interface.                        | Medium     |
-| Python      | Music Player               | Build a player that plays local music files.      | Hard       |
-| C++         | Dating App                 | Simulate a basic dating app with profiles and a matching algorithm. | Hard       |
-| JavaScript  | Weather App                | Displays current weather via an API[^1] such as OpenWeather.                                     | Easy       |
-| HTML/CSS/JS | Personal Portfolio Website | Build a website to showcase your projects, resume, and contact info.                         | Easy       |
 
-**Note:** For the projects labeled **"Hard"**, consider working on them as a group. Collaborating with others not only makes complex projects more manageable, but also helps you build essential teamwork and communication skills. You’ll gain practical experience with tools like _Git_ and _GitHub_, which are skills that are highly valuable in both academic and professional settings.
-- One great way to get that experience is through the [University of Manitoba Programming Practices Club (UMPPC)](https://www.instagram.com/uofmppc/). Once a semester, **UMPPC** organises collaborative group projects where members are split into teams, each tackling a unique programming challenge. At the end of the semester, teams present their projects, giving you a chance to showcase your work and learn from others. 
+
+| Language    | Project                    | Description                                                                | Difficulty |
+| ----------- | -------------------------- | -------------------------------------------------------------------------- | ---------- |
+| Java        | Type Speed Program         | A typing test app that tracks how fast and accurately you type.            | Easy       |
+| Java        | VPN                        | Create a basic Virtual Private Network with encryption and tunneling.      | Hard       |
+| Python      | Alarm Clock                | Simple, but gives you an introduction to using APIs and time-based tasks.  | Easy       |
+| Python      | Flappy Bird                | Recreate the classic game using Pygame.                                    | Medium     |
+| Python      | Music Player               | Build a media player that can play, pause, and skip audio files.           | Hard       |
+| C++         | Dating App                 | Simulate a basic dating app with profiles and a matching algorithm.        | Hard       |
+| JavaScript  | Weather App                | Displays current weather using a weather API and dynamic UI updates.       | Easy       |
+| HTML/CSS/JS | Personal Portfolio Website | Build a responsive website to showcase your projects, resume, and contact. | Easy       |
+
+
+**Note:** For the projects labeled "Hard", consider working on them as a group. Additionally, don't restrict yourself to just coding in language for more complex projects.
+- Collaborating with others not only makes complex projects more manageable, but also helps you build essential teamwork and communication skills. You’ll gain practical experience with tools like _Git_ and _GitHub_, which are skills that are highly valuable in both academic and professional settings.
+- One great way to get that experience is through the [University of Manitoba Programming Practices Club (UMPPC)](https://www.instagram.com/uofmppc/). Once a semester, **UMPPC** organises collaborative group projects where members are split into teams, each tackling a unique programming challenge. At the end of the semester, teams present their projects, giving you a chance to showcase your work and learn from others.
 ---
 ## Learning Resources
 

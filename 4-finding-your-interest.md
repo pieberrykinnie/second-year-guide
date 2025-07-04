@@ -1,3 +1,5 @@
+# Finding Your Interest
+
 During your first year in Computer Science, you're usually focused on finding your footing. You're adjusting to university life, managing a heavy course load, and learning the basics of programming, math, and statistics. With all of that going on, it’s completely normal not to have your career path figured out yet.
 
 But by the second year, things often start to click. You begin to notice which parts of Computer Science you’re actually interested in. Maybe you really enjoy *Object Orientation*, or maybe theoretical courses like _Analysis of Algorithms_ make more sense to you. You might like building interfaces, working with data, or understanding how systems work behind the scenes.
@@ -6,10 +8,10 @@ Now is a good time to start thinking about your **interests and strengths**, and
 
 You don’t need to have all the answers yet. But if you're still figuring things out, ask yourself:
 
-- *Do I like working alone or in a team?*
-- *Do I enjoy building new things, fixing systems, or improving existing ones?*
-- *Do I feel more satisfied starting from scratch or improving what already exists?*
-- *What courses have I enjoyed most, and why?*
+- Do I like working alone or in a team?
+- Do I enjoy building new things, fixing systems, or improving existing ones?
+- Do I feel more satisfied starting from scratch or improving what already exists?
+- What courses have I enjoyed most, and why?
 ---
 ## Possible Career Paths
 
@@ -36,7 +38,6 @@ These careers are a great fit for people who enjoy the hands-on creation of soft
 
 **Signs this may be for you:**
 - You enjoy solving technical challenges and debugging.
-- You like building apps or tools from scratch.
 - You’ve completed personal projects or enjoyed hackathons.
 - You’re curious about how code works under the hood.
 
