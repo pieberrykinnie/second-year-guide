@@ -204,7 +204,7 @@ Hopefully you tried to do them in first year, but here are quick reference sched
 
 #### MATH XXXX + STAT 1150
 
-You get the drill by now...
+Take all the leftover first year courses in Fall. Unfortunately, you don't really have much leeway to take required courses; treat this as an extended second year.
 
 ### If 4 COMP/MATH sounds overwhelming
 
@@ -250,7 +250,7 @@ Similar to Joint CS + Math, there's a lack of COMP 2450 + 2452. Notably, MATH 12
 
 MATH 1240 is required for both COMP 2080 and 2280, so unless you don't want to take any COMP courses in Winter, it must be taken Fall. The flexible PHYS elective option can thus be held off in favor of PHYS 2496, which is required for PHYS 2650.
 
-MATH 2720 is offered every term and thus deferred to Summer. If you want to be "on schedule", MATH 2720 is unfortunately a blocker to a significant number of third year PHYS courses and thus should be dealt with in third year for flexibility; you're free to just, not do that, though!
+MATH 2720 is offered every term and thus deferred to Summer. If you want to be "on schedule", MATH 2720 is unfortunately a blocker to a significant number of third year PHYS courses and thus should be dealt with in summer for flexibility; you're free to just, not do that, though!
 
 ### COMP-focused Schedule (better for CS-related opportunities)
 
