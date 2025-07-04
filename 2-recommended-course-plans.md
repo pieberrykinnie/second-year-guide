@@ -40,7 +40,8 @@ Different degrees, however, require different courses. Here's a quick reference 
 |CS Honours|Yes|Yes|Yes|Yes|Yes|Yes|
 |CS + Math Joint|Yes|Yes|Yes|Yes|No|No|
 |CS + Physics Joint|Yes|Yes|Yes|Yes|No|No|
-|CS + Stats Joint|No|Yes|No|Yes|Yes|Yes|
+|CS + Stats Joint|Yes|Yes|No|Yes|Yes|Yes|
+|Data Science|No|Yes|No|Yes|Yes|Yes|
 
 ### COMP Options
 
