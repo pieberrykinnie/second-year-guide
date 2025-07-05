@@ -1,3 +1,10 @@
+---
+title: "The Co-op Program"
+description: "Supplement your education with work experience"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # The Co-op Program  
 Co-operative Education integrates academic studies with paid work experience, providing hands-on learning in industry, government, or research settings. As a cornerstone of the Faculty of Science, this program helps you apply classroom knowledge while building professional networks.  
 
