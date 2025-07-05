@@ -1,3 +1,10 @@
+---
+title: "Electives and Minors"
+description: "Courses"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Electives and Minors
 
 **You haven't forgotten that you *need* to take a W course in your first 60 credit hours?** You didn't? Great! Continue reading!
