@@ -1,3 +1,10 @@
+---
+title: "Finding Your Interest"
+description: "Finding your interest in Computer Science"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Finding Your Interest
 
 During your first year in Computer Science, you're usually focused on finding your footing. You're adjusting to university life, managing a heavy course load, and learning the basics of programming, math, and statistics. With all of that going on, it’s completely normal not to have your career path figured out yet.
