@@ -1,3 +1,10 @@
+---
+title: "Personal Projects"
+description: "Enrich your profile outside of school"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Personal Projects
 
 **Building larger personal projects is one of the most impactful ways to grow as a Computer Science student.** Unlike the shorter assignments typical of 1000 and 2000-level courses, personal projects give you the freedom to dive deep into problem-solving, apply your skills across different programming languages, and learn by doing. They not only sharpen your technical abilities but also serve as a creative outlet to explore your interests. Plus, a strong project portfolio is a great addition to your resumé, as many employers in tech often look beyond grades to see what you’ve actually built.
