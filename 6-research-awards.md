@@ -1,3 +1,10 @@
+---
+title: "Research Awards"
+description: "Deep dive into a truly complex field"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Research Awards
 
 Getting involved with research as an undergraduate can help you implement your knowledge from courses in real life. It is common for a lot of students to not realize that they want to get into research until they actually do a research project in their final year.
