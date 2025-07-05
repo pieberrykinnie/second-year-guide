@@ -1,3 +1,10 @@
+---
+title: "Recommended Course Plans"
+description: "Course schedules for second year"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Recommended Course Plans
 
 Congraluations on having declared your program in Computer Science! Unlike in first year where you may have been at risk of losing your first-week registration privileges if you took too long, here you're equals with every other non-first years, so take your time! Here’s a suggested guide to help you succeed in Year 2 of a Computer Science Major/Honours program. We have schedules for all Computer Science (including Joint) programs and the Data Science program; read on to find yours!
