@@ -1,3 +1,10 @@
+---
+title: "Internships"
+description: "Resources to land an early internship"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Internships
 
 Your second year is the ideal time to start applying for internships. By now, you've likely completed foundational courses like data structures and algorithms, which qualify you for many technical roles. You’re also still eligible for early-career programs designed for first- and second-year students. This gives you access to a broad range of opportunities, making this year better than any other point in your degree.
