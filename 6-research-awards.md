@@ -16,6 +16,8 @@ Fortunately, University of Manitoba is the first Canadian university to offer un
 | The Jack Prior Memorial USR Prize| $8,570  | 3.5          | Registered in a Faculty of Science Major or Honours program                           |
 | Philip Hultin Pedagogy Fund      | $8,570  | 3.0          | –                                                                                      |
 
+> Note: These awards are very competitive, and not getting one doesn’t mean you’re not capable. If you're passionate about research, consider volunteering with a professor as a great way to gain experience and build connections.
+
 ---
 
 ## Eligibility Requirements

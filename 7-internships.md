@@ -1,32 +1,68 @@
-
 # Internships
-
-Second year is an optimal time to start applying for internships. While some students may choose to start later or even earlier, second year is the time when you start becoming a 'seasoned student' with courses like data structures and algorithms under your belt and you can take advantage of internships targeted towards first and second year students along with internships open to all academic levels.
-
-## Apply early
-
-Internship applications can open as early as the summer before the summer internship you intend to do. Even if you have a strong resume (see section 8 on how to make a strong resume), you might still have to apply to hundreds of positions before securing an opportunity. The earlier you start, the less likely you are to experience fatigue from the application process. To stay organized, create a spreadsheet to track all available internships, including deadlines, and submit applications as soon as possible.
-
-## Apply everywhere
-
-Do not undersell yourself, the likelihood of you securing an internship at a top-tier company isn’t much less than any other place, some would even argue that large companies offer more opportunities for early-career students. Refer to this GitHub repository to find a list of internships that you can take advantage of as a second-year student.
-
-## Networking
-
-I cannot stress this enough, networking will do wonders for you. Building relationships with industry professionals, recruiters, and alumni can open doors for you. Getting an internship is an excruciatingly tough task and networking is there to make it significantly easier for you. Attend career fairs whenever you can, it is okay if things don’t immediately click with a recruiter. It is more important that you showed interest and curiosity about the position. Sometimes even exclusive opportunities might open up for you when to attend events like CUSEC or by just being active on LinkedIn.
-
-## Diversify
-
-Sometimes, applying for internships only isn’t enough. You can and should diversify your search by applying to different teaching (Stanford Code in Place section leader?) and research positions (see research section). Any relevant experience will strengthen your resume and increase your chances of landing an internship in the future.
-
-## Search & Application
-
-Using resources like the GitHub repository linked above is good and you should always be on the lookout for such resources to have an idea of all the position you can apply to. Getting a referral through LinkedIn or your personal connections can significantly set you apart from other applicants but even if you don’t have one, you can set yourself apart by having a solid cover letter to demonstrate your strengths.
-
-## Interview
-
-The interview is your opportunity to talk about yourself and show your skills. Before the interview, make sure to read up on the company and analyze the job description thoroughly and prepare questions to display your knowledge of the company and the industry. During the interview, appear professional, be on time, maintain posture and properly listen to the questions and don’t rush into your answer without thinking.
 
 ---
 
-Lastly, life doesn’t always turn out the way we plan it to. Not being able to land an internship in your second-year isn’t the end of the world and you shouldn’t be too tough on yourself for it. Sometimes luck wouldn’t be in your favor and that is okay. Continue refining your skills, seeking opportunities, and maintaining persistence, anything that you do over and over again will only get easier and you will get better at it.
+Your second year is the ideal time to start applying for internships. By now, you've likely completed foundational courses like data structures and algorithms, which qualify you for many technical roles. You’re also still eligible for early-career programs designed for first- and second-year students. This gives you access to a broad range of opportunities, making this year better than any other point in your degree.
+
+## Apply Early
+
+---
+
+Internship applications can open as early as the summer before the summer internship you intend to do. Starting early is critical; even with a strong resume (see our [Resume Guide](#)), you may need to apply to hundreds of roles before getting an offer. Avoid burnout by spreading your applications over time and not cramming them into the last minute.
+
+Stay organized with a spreadsheet or use tools like [Simplify](https://simplify.jobs/) or [Notion](https://www.notion.so/) to track applications, deadlines, and statuses. And again, **submit as early as possible**.
+
+## Apply Everywhere
+
+---
+
+Don’t limit yourself. You *can* land an internship at a top-tier company (Google, Meta, Shopify, NVIDIA, etc.) even in your second year. In fact, many large companies have **dedicated early-career programs** that prioritize second-year students. A good example is this [GitHub Internship List](https://github.com/codicate/underclassmen-internships), which is regularly updated and curated. You should always be on the lookout for such resources, possibly on LinkedIn or GitHub.
+
+## Network
+
+---
+
+Networking is one of the most powerful tools in your internship search. Whether it’s through **LinkedIn**, **career fairs**, or conferences like [CUSEC](https://2025.cusec.net/), building real connections with professionals, recruiters, and alumni can give you a serious edge. You don’t need to be pushy; just be curious, respectful, and consistent.
+
+Follow up after conversations, comment on posts, and don’t be afraid to message people who work at companies you admire. You’ll be surprised at how many are happy to help.
+
+## Broaden Your Search
+
+---
+
+Internships aren’t the only way to gain experience. You can also apply to:
+
+- **Teaching roles**: Become a [Stanford Code in Place Section Leader](https://codeinplace.stanford.edu/)
+- **Research opportunities**: Explore different research labs, apply for the [URA and USRA](#), and work with professors throughout the summer.
+- **Open-source contributions** — check out projects on [GitHub’s Good First Issues](https://github.com/search?q=good+first+issue) or participate in [Google Summer of Code](https://summerofcode.withgoogle.com/).
+
+All of these strengthen your resume, give you experience, and set you apart from other candidates.
+
+## Search & Apply Smarter
+
+---
+
+Use curated internship repositories like [PittCSC's GitHub list](https://github.com/pittcsc/Summer2025-Internships), job boards like [LinkedIn Jobs](https://linkedin.com/jobs), [Wellfound](https://wellfound.com/), and [Indeed](https://www.indeed.com/) to discover roles you may not hear about otherwise.
+
+If you can get a **referral**, that’s a huge plus. LinkedIn is a great place to reach out. But even without one, you can stand out with a strong, tailored cover letter.
+
+## Ace the Interview
+
+---
+
+Your interview is a chance to showcase who you are beyond the resume. To prepare:
+
+- Study the **job description** carefully
+- Research the company and its recent work or initiatives
+- Practice coding questions (try [LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) or [Codeforces](https://codeforces.com/))
+- Use [Pramp](https://www.pramp.com/) or mock interview with a friend to improve
+
+During the interview, stay calm, listen closely, and don’t be afraid to take a moment before answering. Always ask thoughtful questions and treat the interview like a conversation.
+
+## Final Thoughts
+
+---
+
+Lastly, life doesn’t always turn out the way we plan it to. Not being able to land an internship in your second year isn’t the end of the world, and you shouldn’t be too tough on yourself for it. Sometimes luck wouldn’t be in your favor and that's okay. Not getting an internship in your second year doesn’t mean you’ve failed. Hiring is unpredictable, and even the most qualified candidates get rejected.
+
+Stay consistent, keep learning, and trust the process. Your persistence will pay off and when it does, you’ll be ready.
