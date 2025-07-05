@@ -8,7 +8,7 @@ In most guides, people would just go straight into prescribing what Co-op is all
 
 Do you *need* Co-op to get a job when you graduate? No. Not even close.
 
-Would you, as a normal University of Manitoba Computer Science student, benefit from at least *trying* to apply to the Co-op program, and trying to finish 3 work terms in Co-op, be it professionally, academically, or employment-wise? *Yes*, most of the time.
+Would you, as a normal University of Manitoba Computer Science student, benefit from at least *trying* to apply to the Co-op program, and trying to finish 3 work terms in Co-op, be it professionally, academically, or employment-wise? *Yes*, possibly all of the time, unless you're a true high-achiever who has a proven ability to land your own internships comfortably.
 
 Co-op isn't anything but a university-owned *program* with industry partnerships thats link high-performing, job ready students and partner companies in demand of computer scientists together, for the mutual benefit of both. Getting into Co-op doesn't mean you'll get a job when you graduate. Conversely, not getting into Co-op doesn't mean you're not worthy of internships.
 
