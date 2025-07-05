@@ -1,6 +1,6 @@
 ---
 title: "Electives and Minors"
-description: "Courses"
+description: "Courses to supplement your core requirements"
 author: "Computer Science Students' Association"
 date: "2023-07-05"
 ---
