@@ -1,3 +1,10 @@
+---
+title: "Building Your Resumé"
+description: "101 to making a resume that will stand out"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Building Your Resumé
 
 By the second year, many Computer Science students begin exploring internship opportunities, either through the Computer Science Co-op program or by applying to independent internships on their own. One of the most nerve-wracking parts of this process is trying to build a standout resumé.
