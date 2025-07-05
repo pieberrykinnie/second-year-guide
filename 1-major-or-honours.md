@@ -1,3 +1,10 @@
+---
+title: "Major or Honours?"
+description: "Computer Science Major vs Honours"
+author: "Computer Science Students' Association"
+date: "2023-07-05"
+---
+
 # Major or Honours?
 
 We hope that by the time you've read this guide, you have already declared your program, or are ready to! If you haven't seen it already (which we insist you do, it contains useful information!), our First Year Guide includes a section on "What degree should I do?". Regardless, we'll copy paste the main takeaway here:
