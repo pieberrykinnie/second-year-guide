@@ -2,7 +2,7 @@
 title: "Major or Honours?"
 description: "Computer Science Major vs Honours"
 author: "Computer Science Students' Association"
-date: "2023-07-05"
+date: "2025-07-05"
 ---
 
 # Major or Honours?

@@ -2,7 +2,7 @@
 title: "Research Awards"
 description: "Deep dive into a truly complex field"
 author: "Computer Science Students' Association"
-date: "2023-07-05"
+date: "2025-07-05"
 ---
 
 # Research Awards
@@ -45,7 +45,7 @@ Fortunately, University of Manitoba is the first Canadian university to offer un
 1. **Check Eligibility**: Confirm you meet the CGPA, credit hour, and citizenship requirements.
 2. **Prepare Documents**: Keep your web transcript and resume ready.
 3. **Find a Supervisor**:
-   - Look through the [Research Awards Website](#) or approach any professor of your interest.
+   - Look through the [potential supervisors section](https://umanitoba.ca/science/research/undergraduate-research/usra#potential-supervisors) or approach any professor of your interest in the [faculty listings](https://umanitoba.ca/science/directory/computer-science).
    - Prioritize professors you've taken courses with—familiarity helps.
    - Start contacting them by **October/November**.  
      > August/September may be too early; December/January might be too late. Professors usually supervise a max of **2 students per award**.

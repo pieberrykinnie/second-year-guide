@@ -2,7 +2,7 @@
 title: "Building Your Resumé"
 description: "101 to making a resume that will stand out"
 author: "Computer Science Students' Association"
-date: "2023-07-05"
+date: "2025-07-05"
 ---
 
 # Building Your Resumé
@@ -20,7 +20,7 @@ Employers should be able to tell within **10 to 30 seconds** why you're a strong
 
 Whether your strongest asset is your education, a technical project, or an internship, make sure it appears on the first page of your resumé if it spans multiple pages.
 
-> **Note:** Multiple-page resumés are acceptable, but limit them to a maximum of two pages. For Co-Op applications, two pages are generally acceptable. For traditional internships, you're better off with a condensed one-page resumé.
+> **Note:** Multiple-page resumés are acceptable, but limit them to a maximum of two pages. For Co-op applications, two pages are generally acceptable. For traditional internships, you're better off with a condensed one-page resumé.
 
 ### So, What Are Employers Looking For?
 Employers value a blend of **technical** and **transferable** skills.

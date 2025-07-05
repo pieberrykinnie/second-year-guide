@@ -2,7 +2,7 @@
 title: "Electives and Minors"
 description: "Courses to supplement your core requirements"
 author: "Computer Science Students' Association"
-date: "2023-07-05"
+date: "2025-07-05"
 ---
 
 # Electives and Minors

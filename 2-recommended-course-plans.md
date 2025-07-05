@@ -2,7 +2,7 @@
 title: "Recommended Course Plans"
 description: "Course schedules for second year"
 author: "Computer Science Students' Association"
-date: "2023-07-05"
+date: "2025-07-05"
 ---
 
 # Recommended Course Plans
@@ -52,7 +52,7 @@ Different degrees, however, require different courses. Here's a quick reference 
 
 ### Electives
 
-Outside of COMP courses, you should also begin thinking about electives and minors to supplement your degree. We have a lot to say on this; refer to [Elective and Minors](./3-electives-and-minors.md) for the full detail.
+Outside of COMP courses, you should also begin thinking about electives and minors to supplement your degree. We have a lot to say on this; refer to [Elective and Minors](./second-year-guide/3-electives-and-minors) for the full detail.
 
 However, do make sure that, in your first **60 credit hours**, you complete a 3 crs W (Writing) course. This is mandatory. If you haven't already done it in first year, take it in Summer if you can't fit it into our suggested schedule.
 

@@ -2,12 +2,12 @@
 title: "The Co-op Program"
 description: "Supplement your education with work experience"
 author: "Computer Science Students' Association"
-date: "2023-07-05"
+date: "2025-07-05"
 ---
 
-# The Co-op Program  
-Co-operative Education integrates academic studies with paid work experience, providing hands-on learning in industry, government, or research settings. As a cornerstone of the Faculty of Science, this program helps you apply classroom knowledge while building professional networks.  
+# The Co-op Program
 
+Co-operative Education integrates academic studies with paid work experience, providing hands-on learning in industry, government, or research settings. As a cornerstone of the Faculty of Science, this program helps you apply classroom knowledge while building professional networks.
 
 ## Reality Check
 
@@ -71,7 +71,7 @@ For the record, the CSSA loves and recommends the Co-op program and many generat
 4. **Admission decision**: Released early August.  
 
 ### Preparation Tips  
-- **Resumes**: Prioritize clarity—use standard fonts (e.g., Calibri/Tahoma 11–12pt); see section 8 for extras.
+- **Resumes**: Prioritize clarity—use standard fonts (e.g., Calibri/Tahoma 11–12pt); see our [guide](./second-year-guide/8-building-your-resume) for a comprehensive resume guide!
 - **Interviews**: Emphasize communication skills and self-awareness.  
 - **Course planning**: Register for winter courses as backup; drop if placed.  
 

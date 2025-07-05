@@ -2,7 +2,7 @@
 title: "Internships"
 description: "Resources to land an early internship"
 author: "Computer Science Students' Association"
-date: "2023-07-05"
+date: "2025-07-05"
 ---
 
 # Internships
@@ -11,7 +11,7 @@ Your second year is the ideal time to start applying for internships. By now, yo
 
 ## Apply Early
 
-Internship applications can open as early as the summer before the summer internship you intend to do. Starting early is critical; even with a strong resume (see our [Resume Guide](#)), you may need to apply to hundreds of roles before getting an offer. Avoid burnout by spreading your applications over time and not cramming them into the last minute.
+Internship applications can open as early as the summer before the summer internship you intend to do. Starting early is critical; even with a strong resume (see our [Resume Guide](./second-year-guide/8-building-your-resume)), you may need to apply to hundreds of roles before getting an offer. Avoid burnout by spreading your applications over time and not cramming them into the last minute.
 
 Stay organized with a spreadsheet or use tools like [Simplify](https://simplify.jobs/) or [Notion](https://www.notion.so/) to track applications, deadlines, and statuses. And again, **submit as early as possible**.
 
@@ -30,7 +30,7 @@ Follow up after conversations, comment on posts, and don’t be afraid to messag
 Internships aren’t the only way to gain experience. You can also apply to:
 
 - **Teaching roles**: Become a [Stanford Code in Place Section Leader](https://codeinplace.stanford.edu/)
-- **Research opportunities**: Explore different research labs, apply for the [URA and USRA](#), and work with professors throughout the summer.
+- **Research opportunities**: Explore different research labs, apply for the [URA](https://umanitoba.ca/research/opportunities-support/undergraduate-research-awards) and [USRA](https://umanitoba.ca/science/research/undergraduate-research/usra), and work with professors throughout the summer.
 - **Open-source contributions** — check out projects on [GitHub’s Good First Issues](https://github.com/search?q=good+first+issue) or participate in [Google Summer of Code](https://summerofcode.withgoogle.com/).
 
 All of these strengthen your resume, give you experience, and set you apart from other candidates.
