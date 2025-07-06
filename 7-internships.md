@@ -11,7 +11,7 @@ Your second year is the ideal time to start applying for internships. By now, yo
 
 ## Apply Early
 
-Internship applications can open as early as the summer before the summer internship you intend to do. Starting early is critical; even with a strong resume (see our [Resume Guide](./second-year-guide/8-building-your-resume)), you may need to apply to hundreds of roles before getting an offer. Avoid burnout by spreading your applications over time and not cramming them into the last minute.
+Internship applications can open as early as the summer before the summer internship you intend to do. Starting early is critical; even with a strong resumé (see our [Resumé Guide](./second-year-guide/8-building-your-resume)), you may need to apply to hundreds of roles before getting an offer. Avoid burnout by spreading your applications over time and not cramming them into the last minute.
 
 Stay organized with a spreadsheet or use tools like [Simplify](https://simplify.jobs/) or [Notion](https://www.notion.so/) to track applications, deadlines, and statuses. And again, **submit as early as possible**.
 
@@ -33,7 +33,7 @@ Internships aren’t the only way to gain experience. You can also apply to:
 - **Research opportunities**: Explore different research labs, apply for the [URA](https://umanitoba.ca/research/opportunities-support/undergraduate-research-awards) and [USRA](https://umanitoba.ca/science/research/undergraduate-research/usra), and work with professors throughout the summer.
 - **Open-source contributions** — check out projects on [GitHub’s Good First Issues](https://github.com/search?q=good+first+issue) or participate in [Google Summer of Code](https://summerofcode.withgoogle.com/).
 
-All of these strengthen your resume, give you experience, and set you apart from other candidates.
+All of these strengthen your resumé, give you experience, and set you apart from other candidates.
 
 ## Search & Apply Smarter
 
@@ -43,7 +43,7 @@ If you can get a **referral**, that’s a huge plus. LinkedIn is a great place t
 
 ## Ace the Interview
 
-Your interview is a chance to showcase who you are beyond the resume. To prepare:
+Your interview is a chance to showcase who you are beyond the resumé. To prepare:
 
 - Study the **job description** carefully
 - Research the company and its recent work or initiatives

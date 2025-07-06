@@ -18,7 +18,7 @@ This guide (as of July 5, 2025) covers:
 - **Course Planning**: Recommended schedules for all CS programs including Joint Honours and Data Science.
 - **Academic Enhancement**: Guidance on electives, minors, and research opportunities to enrich your degree.
 - **Career Exploration**: Insights into different CS specializations and how to align your studies with career goals.
-- **Professional Development**: Resources for co-op, internships, resume building, and personal projects.
+- **Professional Development**: Resources for co-op, internships, resumé building, and personal projects.
 - **Research Opportunities**: Information on undergraduate research awards and how to apply.
 
 ## Table of Content
@@ -30,7 +30,7 @@ This guide (as of July 5, 2025) covers:
 5. [The Co-op Program](./second-year-guide/5-the-co-op-program)
 6. [Research Awards](./second-year-guide/6-research-awards)
 7. [Internships](./second-year-guide/7-internships)
-8. [Building Your Resume](./second-year-guide/8-building-your-resume)
+8. [Building Your Resumé](./second-year-guide/8-building-your-resume)
 9. [Personal Projects](./second-year-guide/9-personal-projects)
 
 This guide combines official program requirements with insider perspectives from students who've successfully navigated their second year. While comprehensive, we encourage you to use this as a starting point for your own research and planning. Your academic advisors and the CSSA are always available to provide personalized guidance based on your unique goals and circumstances.

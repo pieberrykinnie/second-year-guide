@@ -215,7 +215,7 @@ Take all the leftover first year courses in Fall. Unfortunately, you don't reall
 
 ### If 4 COMP/MATH sounds overwhelming
 
-In general, prioritize COMP courses if you are interested in CS-related opportunities; knowing data structures and algorithms will probably look better on your resume than knowing real analysis. However, don't take our word for granted! You're already in the program, and it's very brave that you're pursuing Joint CS + Math for your degree. Take your time and split up core courses throughout the years, though be mindful that this degree doesn't particularly have a lot of electives.
+In general, prioritize COMP courses if you are interested in CS-related opportunities; knowing data structures and algorithms will probably look better on your resumé than knowing real analysis. However, don't take our word for granted! You're already in the program, and it's very brave that you're pursuing Joint CS + Math for your degree. Take your time and split up core courses throughout the years, though be mindful that this degree doesn't particularly have a lot of electives.
 
 ## Joint Honours: Computer Science + Physics & Astronomy
 

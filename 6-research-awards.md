@@ -43,7 +43,7 @@ Fortunately, University of Manitoba is the first Canadian university to offer un
 ## Application Process
 
 1. **Check Eligibility**: Confirm you meet the CGPA, credit hour, and citizenship requirements.
-2. **Prepare Documents**: Keep your web transcript and resume ready.
+2. **Prepare Documents**: Keep your web transcript and resumé ready.
 3. **Find a Supervisor**:
    - Look through the [potential supervisors section](https://umanitoba.ca/science/research/undergraduate-research/usra#potential-supervisors) or approach any professor of your interest in the [faculty listings](https://umanitoba.ca/science/directory/computer-science).
    - Prioritize professors you've taken courses with—familiarity helps.
@@ -55,7 +55,7 @@ Fortunately, University of Manitoba is the first Canadian university to offer un
    - Brief self-introduction
    - Reason for contacting them
    - What you found interesting about their research (do your homework)
-   - Attach your transcript and resume
+   - Attach your transcript and resumé
    - Offer specific times you’re available to meet
 
 5. **During the Meeting**:

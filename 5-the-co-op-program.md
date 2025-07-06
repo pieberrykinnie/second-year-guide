@@ -66,25 +66,25 @@ For the record, the CSSA loves and recommends the Co-op program and many generat
 1. **Submit online application** (opens March, due April).  
 2. **Provide materials**:  
    - Unofficial transcript  
-   - Resume (max 2 pages; include all relevant experience)  
+   - Resumé (max 2 pages; include all relevant experience)  
 3. **Interview**: 30–45 minute professional evaluation.  
 4. **Admission decision**: Released early August.  
 
 ### Preparation Tips  
-- **Resumes**: Prioritize clarity—use standard fonts (e.g., Calibri/Tahoma 11–12pt); see our [guide](./second-year-guide/8-building-your-resume) for a comprehensive resume guide!
+- **Resumés**: Prioritize clarity—use standard fonts (e.g., Calibri/Tahoma 11–12pt); see our [guide](./second-year-guide/8-building-your-resume) for a comprehensive resumé guide!
 - **Interviews**: Emphasize communication skills and self-awareness.  
 - **Course planning**: Register for winter courses as backup; drop if placed.  
 
 ## Responsibilities & Workshops  
 ### Student Commitments  
-- Attend mandatory pre-employment workshops (resume writing, interview practice).  
+- Attend mandatory pre-employment workshops (resumé writing, interview practice).  
 - Maintain full-time enrollment outside work terms.  
 - Secure required work permits (international students).  
 
 ### Workshop Curriculum  
 | Timing       | Topics                                  |  
 |--------------|-----------------------------------------|  
-| Late August  | Resume/Cover letter best practices      |  
+| Late August  | Resumé/Cover letter best practices      |  
 | September    | Interview techniques                    |  
 | October      | Professional conduct & networking       |  
 

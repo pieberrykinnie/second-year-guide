@@ -1,6 +1,6 @@
 ---
 title: "Building Your Resumé"
-description: "101 to making a resume that will stand out"
+description: "101 to making a resumé that will stand out"
 author: "Computer Science Students' Association"
 date: "2025-07-05"
 ---
