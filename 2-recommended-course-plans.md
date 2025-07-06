@@ -9,7 +9,7 @@ date: "2025-07-05"
 
 Congraluations on having declared your program in Computer Science! Unlike in first year where you may have been at risk of losing your first-week registration privileges if you took too long, here you're equals with every other non-first years, so take your time! Here’s a suggested guide to help you succeed in Year 2 of a Computer Science Major/Honours program. We have schedules for all Computer Science (including Joint) programs and the Data Science program; read on to find yours!
 
-**Note**: Please read the next section in full and look over all schedules relevant to your degree; there is significantly more nuance in course picking in second year than first year! Aside from what you see in the Academic Calendar, **you need to complete a course that meets the Writing requirement in your first 60 credit hours**! You can look over some courses that meet the requirement in the [First Year Planning Guide](https://issuu.com/firstyearcentre/docs/fypg?fr=sZGJmMjYxMDM4MzM).
+**Note**: Please read the next section in full and look over all schedules relevant to your degree; there is significantly more nuance in course picking in second year than first year! Aside from what you see in the Academic Calendar, **you need to complete a course that meets the Writing requirement in your first 60 credit hours**! You can look over some courses that meet the requirement in the [First Year Planning Guide](https://umanitoba.ca/current-students/first-year/planning#first-year-planning-guide).
 
 This section will focus mainly on those "on-stream", or those who have declared their program before the upcoming registration period. We apologize for not being able to include everyone, but as you can see, this is already long enough! Regardless, we do mention a lot of things that will be applicable to you in building your own schedule.
 
@@ -84,7 +84,7 @@ Not much else to say here; there are 6 courses you're expected to complete, and 
 | COMP 2450   | Elective      |                        |
 | Elective    | Elective      |                        |
 
-**Note**: We don't know if and when COMP 2452 will be offered in Summer; this is just a suggestion. It's likely that you'll have to push the course to your third year and not qualify for Co-op after finishing Winter. In that case, if you want to maximize your Co-op chance, consider taking 3 courses so you don't accumulate too many credit hours. More details can be found in our later section "The Co-op Program".
+> **Note**: We don't know if and when COMP 2452 will be offered in Summer; this is just a suggestion. It's likely that you'll have to push the course to your third year and not qualify for Co-op after finishing Winter. In that case, if you want to maximize your Co-op chance, consider taking 3 courses so you don't accumulate too many credit hours. More details can be found in our later section "The Co-op Program".
 
 ### If you completed some core courses in Summer
 
@@ -103,7 +103,7 @@ Not much else to say here; there are 6 courses you're expected to complete, and 
 
 ## Joint Honours: Computer Science + Mathematics
 
-**Note**: If you intend on joining Co-op, discuss with the Co-op Office ASAP before finalizing your schedule.
+> **Note**: If you intend on joining Co-op, discuss with the Co-op Office ASAP before finalizing your schedule.
 
 ### Core Courses
 
@@ -219,7 +219,7 @@ In general, prioritize COMP courses if you are interested in CS-related opportun
 
 ## Joint Honours: Computer Science + Physics & Astronomy
 
-**Note**: If you intend on joining Co-op, discuss with the Co-op Office ASAP before finalizing your schedule.
+> **Note**: If you intend on joining Co-op, discuss with the Co-op Office ASAP before finalizing your schedule.
 
 ---
 
@@ -305,7 +305,7 @@ Either you put off MATH 1240 + later COMP courses, or you put off PHYS courses. 
 
 ## Joint Honours: Computer Science + Statistics
 
-**Note**: If you intend on joining Co-op, discuss with the Co-op Office ASAP before finalizing your schedule.
+> **Note**: If you intend on joining Co-op, discuss with the Co-op Office ASAP before finalizing your schedule.
 
 ---
 
