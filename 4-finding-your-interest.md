@@ -149,4 +149,4 @@ Roles bridge technical implementation with user needs through design, writing, a
 
 ---
 
-Discovering your interests and strengths is just the first step, but nurturing and developing them is even more important for your path. Check out our [Personal Projects](./second-year-guide/9-personal-projects) page for ideas on projects you can start right away. You’ll also find curated resources to help you build skills in key areas like Web Development, Cybersecurity, and more.
+Discovering your interests and strengths is just the first step, but nurturing and developing them is even more important for your path. Check out our [Personal Projects](./9-personal-projects) page for ideas on projects you can start right away. You’ll also find curated resources to help you build skills in key areas like Web Development, Cybersecurity, and more.

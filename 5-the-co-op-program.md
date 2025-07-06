@@ -71,7 +71,7 @@ For the record, the CSSA loves and recommends the Co-op program and many generat
 4. **Admission decision**: Released early August.  
 
 ### Preparation Tips  
-- **Resumés**: Prioritize clarity—use standard fonts (e.g., Calibri/Tahoma 11–12pt); see our [guide](./second-year-guide/8-building-your-resume) for a comprehensive resumé guide!
+- **Resumés**: Prioritize clarity—use standard fonts (e.g., Calibri/Tahoma 11–12pt); see our [guide](./8-building-your-resume) for a comprehensive resumé guide!
 - **Interviews**: Emphasize communication skills and self-awareness.  
 - **Course planning**: Register for winter courses as backup; drop if placed.  
 

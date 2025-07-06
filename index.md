@@ -23,15 +23,15 @@ This guide (as of July 5, 2025) covers:
 
 ## Table of Content
 
-1. [Major or Honours?](./second-year-guide/1-major-or-honours)
-2. [Recommended Course Plans](./second-year-guide/2-recommended-course-plans)
-3. [Electives and Minors](./second-year-guide/3-electives-and-minors)
-4. [Finding Your Interest](./second-year-guide/4-finding-your-interest)
-5. [The Co-op Program](./second-year-guide/5-the-co-op-program)
-6. [Research Awards](./second-year-guide/6-research-awards)
-7. [Internships](./second-year-guide/7-internships)
-8. [Building Your Resumé](./second-year-guide/8-building-your-resume)
-9. [Personal Projects](./second-year-guide/9-personal-projects)
+1. [Major or Honours?](./1-major-or-honours)
+2. [Recommended Course Plans](./2-recommended-course-plans)
+3. [Electives and Minors](./3-electives-and-minors)
+4. [Finding Your Interest](./4-finding-your-interest)
+5. [The Co-op Program](./5-the-co-op-program)
+6. [Research Awards](./6-research-awards)
+7. [Internships](./7-internships)
+8. [Building Your Resumé](./8-building-your-resume)
+9. [Personal Projects](./9-personal-projects)
 
 This guide combines official program requirements with insider perspectives from students who've successfully navigated their second year. While comprehensive, we encourage you to use this as a starting point for your own research and planning. Your academic advisors and the CSSA are always available to provide personalized guidance based on your unique goals and circumstances.
 
